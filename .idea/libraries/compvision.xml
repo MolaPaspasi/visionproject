@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="compvision">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/compvision.zip!/" />
+      <root url="jar://$PROJECT_DIR$/visionpr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
